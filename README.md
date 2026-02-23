@@ -3,7 +3,14 @@
 
 This is your first personal repository for the AI.SPIRE Pre-Work program.
 You will use it for Day 1 and Day 2 Pre-Work Assignments. 
+## About
 
+This repository is for AI.SPIRE Pre-Work. My name is Rama Mathloni, and this repo documents my Git setup and workflow.
+
+## Setup
+```bash
+git clone https://github.com/LevelUp-Applied-AI/ramamathloni-dotcom-prework.git
+cd ramamathloni-dotcom-prework
 Note: the Assignment due date is today. The GitHub Classroom button above lists the last date that resubmissions are accepted. 
 
 ---

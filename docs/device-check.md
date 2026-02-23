@@ -10,13 +10,14 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
+| Operating System | Microsoft Windows
+Version 22H2|
+| OS Build / Version |  (OS Build 19045.6456|
+| RAM |  8 GB |
+| CPU Model | Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz |
 | CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Free Disk Space | 2.19 GB free |
+| Internet Speed (Download = 47.84) |
 
 ---
 

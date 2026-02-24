@@ -5,7 +5,7 @@ This is your first personal repository for the AI.SPIRE Pre-Work program.
 You will use it for Day 1 and Day 2 Pre-Work Assignments. 
 ## About
 
-This repository is for AI.SPIRE Pre-Work. My name is Rama Mathloni, and this repo documents my Git setup and workflow.
+This Repository is for AI.SPIRE Pre-Work. My name is Rama Mathloni, and this repo documents my Git setup and workflow.
 
 ## Setup
 ```bash
@@ -35,3 +35,9 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+ض
+q
+q
+
+

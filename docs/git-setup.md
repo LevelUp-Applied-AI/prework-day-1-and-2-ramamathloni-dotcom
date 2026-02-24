@@ -12,7 +12,7 @@
 |------------|------------|
 | `user.name` | Rama Mathloni |
 | `user.email` | ramamathloni@gmail.com |
-| `core.autocrlf` | true |
+| `core.autocrlf` | True |
 
 ---
 

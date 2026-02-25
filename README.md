@@ -37,7 +37,5 @@ Configure the pull request:
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
 
 ض
-q
-q
-
+Last update: Feb 2026
 
